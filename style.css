@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'VERDANA', Times, serif;
+}
+
+header{
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url("https://thumbs.dreamstime.com/b/charity-donation-promo-round-emblem-composed-symbolic-icons-charity-donation-promo-round-emblem-composed-symbolic-117111696.jpg") ;
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.title{
+    position: absolute;
+    top:40%;
+    left:41%;
+}
+
+.title h1{
+    color: rgb(0,0,0 );
+    font-size:70px;
+}
+.razorbutton{
+    position: absolute;
+	top:60%;
+    left:46%;
+}
